@@ -1,0 +1,10 @@
+Customer_ID,gender,Age,Income,Loan_Amount,Loan_Term_Months,Rent_Payments,Utility_Payments_On_Time,Mobile_Phone_Payment_On_Time,Social_Media_Activity_Score,Transaction_Behavior_Score,Credit_Score,demographics_Rural,demographics_Sub_Urban,demographics_Urban,demographics_Urban ,profession_Market Manager,profession_Software Engineer,profession_Student ,social mediaplatform_Facebook,social mediaplatform_Instagram,social mediaplatform_Youtube
+0.0,1.0,45,0.08259299103039969,0.0,0.34375,0.3916349809885931,False,True,0.5081967213114754,0.676056338028169,0.0,False,False,True,False,False,True,False,False,True,False
+0.09999999999999998,0.0,80,0.4145750660786674,0.03485304327701921,0.125,0.7414448669201521,True,False,0.7868852459016393,1.0,0.17289719626168226,False,True,False,False,False,False,True,True,False,False
+0.19999999999999996,1.0,35,1.0,1.0,0.6875,0.9999999999999999,True,False,1.0,0.380281690140845,0.3457943925233644,True,False,False,False,True,False,False,False,False,True
+0.29999999999999993,0.0,67,0.8155354331269637,0.38570932654478124,1.0,0.08871989860583024,True,False,0.34426229508196715,0.8028169014084507,0.5186915887850467,False,False,False,True,False,True,False,False,False,True
+0.39999999999999997,1.0,84,0.6097333342832512,0.2571395510298542,0.0,0.7262357414448668,False,True,0.3278688524590163,0.5070422535211268,0.6915887850467289,False,True,False,False,False,False,True,True,False,False
+0.5,0.0,34,0.15895214550843167,0.6427331636195325,0.046875,0.3916349809885931,True,False,0.08196721311475408,0.2816901408450704,1.0,True,False,False,False,True,False,False,False,True,False
+0.6,1.0,25,0.7540092474512513,0.38570932654478124,0.4375,0.0,True,True,0.7868852459016393,0.1408450704225352,0.8271028037383177,False,False,True,False,False,True,False,False,True,False
+0.8,1.0,78,0.5149790186872608,0.2571395510298542,0.515625,0.2306717363751585,False,True,0.0,0.0,0.48130841121495327,True,False,False,False,True,False,False,False,False,True
+1.0,1.0,23,0.0,0.6377111779680629,0.71875,0.4841571609632446,True,False,0.9508196721311475,0.352112676056338,0.8598130841121495,False,True,False,False,True,False,False,False,False,True

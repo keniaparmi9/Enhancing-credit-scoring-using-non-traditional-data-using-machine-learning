@@ -1,0 +1,12 @@
+﻿Customer_ID,gender,Age,demographics,profession,Income,Loan_Amount,Loan_Term_Months,Rent_Payments,Utility_Payments_On_Time,Mobile_Phone_Payment_On_Time,social mediaplatform,Social_Media_Activity_Score,Transaction_Behavior_Score,Credit_Score
+1,male,45,Urban,Software Engineer,31654,12345,34,984,FALSE,TRUE,Instagram,50,67,345
+2,female,80,Sub_Urban,Student ,78252,15357,20,1260,TRUE,FALSE,Facebook,67,90,456
+3,male,35,Rural,Market Manager,160424,98765,56,1464,TRUE,FALSE,Youtube,80,46,567
+4,female,67,Urban ,Software Engineer,134532,45678,76,745,TRUE,FALSE,Youtube,40,76,678
+5,male,84,Sub_Urban,Student ,105645,34567,12,1248,FALSE,TRUE,Facebook,39,55,789
+6,female,34,Rural,Market Manager,42372,67890,15,984,TRUE,FALSE,Instagram,24,39,987
+7,male,25,Urban,Software Engineer,125896,45678,40,675,TRUE,TRUE,Instagram,67,29,876
+8,female,65,Sub_Urban,Student ,86420,55678,60,2431,TRUE,FALSE,Facebook,9,30,765
+9,male,78,Rural,Market Manager,92345,34567,45,857,FALSE,TRUE,Youtube,19,19,654
+10,female,49,Urban,Student ,65270,98765,20,2420,FALSE,TRUE,Facebook,94,50,543
+11,male,23,Sub_Urban,Market Manager,20061,67456,58,1057,TRUE,FALSE,Youtube,77,44,897

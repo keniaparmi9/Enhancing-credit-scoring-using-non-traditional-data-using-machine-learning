@@ -33,8 +33,6 @@ Traditional credit scoring models often exclude individuals without extensive fi
 
 All datasets were cleaned, merged, and engineered to produce the final dataset used for training and evaluation.
 
-> *Note: All data used were anonymized or simulated to respect user privacy and adhere to data governance policies.*
-
 ## ⚙️ Workflow
 
 1. **Data Collection & Cleaning**  
@@ -61,10 +59,6 @@ All datasets were cleaned, merged, and engineered to produce the final dataset u
 Developed by: **Parmi Kenia**  
 - Role: ML Engineer, Data Pipeline Designer  
 - Focus: Feature selection, model optimization, fairness-aware AI
-
-## 📜 License
-
-This project is released under the [MIT License](LICENSE).
 
 ## 📌 Future Work
 
